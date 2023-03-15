@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'LEGO-DIGI-BT-LRMP-IoT-DevTest'
 
   # Web app name
-  webAppName: 'as-be-poc'
+  webAppName: 'as-fe-poc'
 
   # Environment name
   environmentName: 'Development'
